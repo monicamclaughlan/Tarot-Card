@@ -1,4 +1,6 @@
-
+////////////////////////////
+// Global Variables
+///////////////////////////
 
 const cards = [
         'https://www.trustedtarot.com/img/cards/the-fool.png',
